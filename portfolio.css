@@ -57,9 +57,3 @@ background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, F
 
 }
 
-footer{
-    padding:10px;
-    position:fixed;
-    right:0;
-    left:0;
-    }
