@@ -23,7 +23,7 @@
 
 
 .bg-image{
-    background-image: url(file:///C:/Users/HP/Desktop/portfolio/portfolio-image.jpeg);
+    background-image: url(portfolio-image.jpeg);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
