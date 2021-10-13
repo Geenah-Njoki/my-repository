@@ -57,3 +57,8 @@ background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, F
 
 }
 
+.img-works{
+    height: 300px !important;
+    object-fit: cover;
+}
+
